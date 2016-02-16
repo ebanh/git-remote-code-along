@@ -1,0 +1,1 @@
+Git code along practice. Be very amazed!
